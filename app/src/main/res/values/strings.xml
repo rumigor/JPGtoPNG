@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JPGtoPNG</string>
+    <string name="transform">Transform to PNG</string>
+    <string name="load_image">Load image</string>
+</resources>
